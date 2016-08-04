@@ -1,2 +1,2 @@
 # OpenGL
-a demo for beginning with OPENGL
+demo0 - a demo for beginning with OPENGL
